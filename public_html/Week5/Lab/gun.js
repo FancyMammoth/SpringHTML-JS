@@ -38,7 +38,7 @@ shoot.onclick = function fire()
 
 function playshot()
 {
-    document.getElementById("gunshot").play();
+    document.getElementById("gunshot").play;
     
 }
 
